@@ -124,7 +124,7 @@ Enable PEP8 compliance testing with ``pep8=True`` in the call to
 
 Astropy Test Function
 ^^^^^^^^^^^^^^^^^^^^^
-
+cats
 .. autofunction:: astropy.test
 
 Tox
